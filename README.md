@@ -7,3 +7,5 @@ You can edit your repositories using github and/or through a command line interf
 When you change a file in your repository a commit should be made, which means to save your changes. Doing this will help a user keep track and record of the changes that were made when and by who.
 
 A remote repository are used for collaboration/group work, where all team memebrs use to exchange their changes. There is a command "push" that is used to upload local repository conent to a remote repository. Pushing is how a user tansfer the commits from the local repository to the remote repository.
+
+A git Pull command on the otherhand is used to update the local version on a repository from a remote. A pull command does two things, it updates the current local working branch. and updates the remote tracking branches for all other branches. A branch in git is a lightweight movable pointer to a commit. the git branch command lets a user create, list, rename, and delete brnches.
