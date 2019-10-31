@@ -12,4 +12,5 @@ A git Pull command on the otherhand is used to update the local version on a rep
 
 Merging in Git is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch. A merge conflict happens when a user merges branches that have competing commits, and Git needs the user to decide which changes to incorperate in the final merge.
 
+A git fetch is a primary command used to download contents from a remote repository and is a critical piece of collaborative git work flows.
 
