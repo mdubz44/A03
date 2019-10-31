@@ -9,3 +9,7 @@ When you change a file in your repository a commit should be made, which means t
 A remote repository are used for collaboration/group work, where all team memebrs use to exchange their changes. There is a command "push" that is used to upload local repository conent to a remote repository. Pushing is how a user tansfer the commits from the local repository to the remote repository.
 
 A git Pull command on the otherhand is used to update the local version on a repository from a remote. A pull command does two things, it updates the current local working branch. and updates the remote tracking branches for all other branches. A branch in git is a lightweight movable pointer to a commit. the git branch command lets a user create, list, rename, and delete brnches.
+
+Merging in Git is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch. A merge conflict happens when a user merges branches that have competing commits, and Git needs the user to decide which changes to incorperate in the final merge.
+
+
