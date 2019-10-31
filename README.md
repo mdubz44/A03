@@ -14,4 +14,4 @@ Merging in Git is Git's way of putting a forked history back together again. The
 
 A git fetch is a primary command used to download contents from a remote repository and is a critical piece of collaborative git work flows.
 
-* [Sources](/Sources.md)
+* [Sources](/sources.md)
