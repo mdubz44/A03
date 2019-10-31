@@ -4,3 +4,5 @@ Once in Github if you click on new repository a digital directory or storage spa
 
 You can edit your repositories using github and/or through a command line interface. while using a command line interface if you run 'git clone' command the existing repository will be targeted and clone will be created or in other words a copy of the targeted repository.
 
+When you change a file in your repository a commit should be made, which means to save your changes. Doing this will help a user keep track and record of the changes that were made when and by who.
+
